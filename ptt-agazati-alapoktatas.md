@@ -84,19 +84,19 @@ A témakör célja, hogy a tanulók megismerjék a webszerkesztés alapjait, a w
 
 ##### Weboldalak formázása
 
-##### CSS alapok
+###### CSS alapok
 
 - Ismeri a stílusok és stíluslapok (CSS) szerepét, valamint a CSS3-leírók és -szabályok szintaxisát.
 - Alkalmazza a stílusok definiálásának és alkalmazásának különböző módozatait (inline, internal és external CSS).
 - Definiálja és alkalmazza a CSS-szabályokat a kiértékelési sorrend figyelembevételével.
 - Kiválasztja és alkalmazza a megfelelő CSS3-szelektorokat (univerzális, elem, azonosító, osztály, pszeudo és speciális szelektorok).
 
-##### CSS tulajdonságok és függvények
+###### CSS tulajdonságok és függvények
 
 - Alkalmazza a legfontosabb CSS3-jellemzőket (color, opacity, background*, border*, box-shadow, box-sizing, margin*, padding*, overflow, display, float, z-index, rel, width*, height*, top, bottom, left, right, position, line-height, text-align, vertical-align, text-justify, text-transform, font, font-family, font-size, font-style, text-decoration, list-style\*, cursor, letter-spacing, viewport, white-space) a megfelelő formázási műveletek elvégzéséhez.
 - Használja a legfontosabb CSS-függvényeket (url(), rgb(), rgba(), hsl(), hsla(), calc()).
 
-##### Elrendezés és pozicionálás
+###### Elrendezés és pozicionálás
 
 - Alkalmazza a float tulajdonságot a célnak megfelelő értékekkel (left, right, none).
 - Alkalmazza a display-tulajdonságot a célnak megfelelő értékekkel (inline, block, inline-block, none).
@@ -105,38 +105,40 @@ A témakör célja, hogy a tanulók megismerjék a webszerkesztés alapjait, a w
 - Alkalmazza a z-index tulajdonságot a célnak megfelelően.
 - Alkalmazza a clearfix technikát.
 
-##### Speciális technikák
+###### Speciális technikák
 
 - Alkalmazza a CSS-resets célját és használatának módját.
 - Alkalmazza a clearfix technikát.
 
 ##### Reszponzív weboldalak készítése
 
-##### Reszponzív webdizájn alapelvei
+###### Reszponzív webdizájn alapelvei
 
 - Ismeri és alkalmazza a reszponzív webdizájn célját és alapelveit (mobile first elv, progressive enhancement).
 - Használja a médialekérdezéseket, törési pontokat és a viewport tulajdonságot.
 - Alkalmazza az abszolút és relatív hosszmértékegységeket, különösen a relatív hosszmértékegységeket (em, rem, százalék, vw, vh).
 
-##### Flexbox
+###### Flexbox
 
 - Ismeri a flexbox célját és alapelveit.
 - Alkalmazza a flexbox konténer tulajdonságait (display: flex, flex-direction, flex-wrap, justify-content, align-items, align-content).
 - Alkalmazza a flexbox elemek tulajdonságait (order, flex-grow, flex-shrink, flex-basis, align-self).
 - Képes rugalmas és reszponzív elrendezéseket kialakítani flexbox használatával.
 
-##### CSS Grid
+###### CSS Grid
 
 - Ismeri és alkalmazza a CSS Grid layout célját és alapelveit.
 - Alkalmazza a CSS Grid konténer tulajdonságait (display: grid, grid-template-columns, grid-template-rows, grid-gap, justify-items, align-items).
 - Alkalmazza a CSS Grid elemek tulajdonságait (grid-column, grid-row, grid-area).
 - Képes összetett és reszponzív elrendezéseket kialakítani CSS Grid használatával.
 
-##### CSS-keretrendszerek
+###### CSS-keretrendszerek
 
 - A hatékonyabb munka érdekében CSS-keretrendszert vagy -könyvtárt használ (pl. Tailwind, Bootstrap). Javasolt CSS-könyvtár: TailwindCSS.
 
 ##### JavaScript alapok
+
+###### JavaScript alapok
 
 - Ismeri a JavaScript nyelv szerepét és fontosabb tulajdonságait.
 - JavaScript kódot ágyaz be weboldalba.
