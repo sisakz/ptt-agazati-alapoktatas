@@ -32,6 +32,12 @@
 
 #### A témakör elemei
 
+##### Bevezetés a LabVIEW grafikus programozásba
+
+- Bemutatja a hőmérő szenzort, elvégzi a számítógépes mérést, értelmezi a mérőszoftver elemeit, és megfigyeli a jelváltozásokat.
+- Megismeri a méréshez szükséges hardverelemeket és azok feladatait.
+- Megtekinti a javasolt elektronikus tananyagtartalmaknál felsorolt webcastokat (pl. Bevezetés a myDAQ használatába).
+
 ### 3. Bevezetés a programozásba
 
 #### A témakör célja
