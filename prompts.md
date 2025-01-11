@@ -1,4 +1,8 @@
-alakítsd md felsorolássá
-alakítsd md felsorolássá és fogalmazd át, hogy megfelelejen az eredmény alapú megközelítésnek, úgy, hogy cselevő megfogalmazásokat használsz. Pl. - Weboldalakat hoz létre, módosít és formáz egy online fejlesztői környezetben (pl. CodePen, JSBin, Plunker).
-frissítsd a teljes óraszámot!
-csoportosítsd 3-4 résztémakörbe a felsorolás elemeit
+- alakítsd md felsorolássá
+- alakítsd md felsorolássá és fogalmazd át, hogy megfelelejen az eredmény alapú megközelítésnek, úgy, hogy cselevő megfogalmazásokat használsz. Pl. Weboldalakat hoz létre, módosít és formáz egy online fejlesztői környezetben (pl. CodePen, JSBin, Plunker).
+- frissítsd a teljes óraszámot!
+- csoportosítsd 3-4 résztémakörbe a felsorolás elemeit
+- csoportosítsd újra 3-4 résztémakörbe a felsorolás elemeit
+- Tömörítsd össze maximum 6-7 felsorolássá úgy, hogy semmit ne hagyj ki
+- Vizsgáld felül és javítsd, hogy stilisztikailag megfeleljen a magyar nyelv megfelelő alkalmazásának
+- Fogalmazd át úgy, hogy hozz létre 2-3 résztémakört ötös szintű címsorként és résztémakörönként hozz létre 2-4 felsoroláselemet, hogy megfelelejen az eredmény alapú megközelítésnek, úgy, hogy cselevő megfogalmazásokat használsz. Pl. - Weboldalakat hoz létre, módosít és formáz egy online fejlesztői környezetben (pl. CodePen, JSBin, Plunker). Ügyelj rá, hogy semmilyen érdemi tevékenység ne maradjon ki. Stilisztikailag megfeleljen a magyar nyelv megfelelő alkalmazásának.

@@ -9,14 +9,51 @@
 5. PC hardver ismeretek (42 óra)
 6. Windows operációs rendszerek telepítése, konfigurálása és használata (15 óra)
 7. Linux és egyéb (Android, MacOS) operációs rendszerek telepítése, konfigurálása és használata (24 óra)
-8. Az informatikai és távközlési hálózatok alapjai (110 óra)
-9. Mesterséges intelligencia, gépi tanulás és a dolgok internete (18 óra)
-10. Virtualizáció és felhőtechnológiák (15 óra)
-11. A Python programozási nyelv alapjai (72 óra)
-12. A GIT verzókezelő, csapat- és projektmunkát támogató eszközök (8 óra)
-13. IKT projektmunka (162 óra)
+8. Az informatikai és távközlési hálózatok alapjai (80 óra)
+9. IT-biztonság (30 óra)
+10. A dolgok internete (8 óra)
+11. Mesterséges intelligencia, gépi tanulás
+12. Virtualizáció és felhőtechnológiák (15 óra)
+13. A Python programozási nyelv alapjai (72 óra)
+14. A GIT verzókezelő, csapat- és projektmunkát támogató eszközök (8 óra)
+15. IKT projektmunka (162 óra)
 
 Összesen: 576 óra
+
+## Ajánlott tantárgyak
+
+### 9. évfolyam
+
+#### Munkaválallói ismeretek
+
+1. Munkavállalói ismeretek (18 óra)
+
+#### Informatikai és távközlési alapok I.
+
+2. Bevezetés az elektronikába (28 óra)
+3. PC hardver ismeretek (42 óra)
+4. Windows operációs rendszerek telepítése, konfigurálása és használata (15 óra)
+5. A dolgok internete (8 óra)
+6. Virtualizáció és felhőtechnológiák (15 óra)
+
+#### Programozási alapok I.
+
+3. Bevezetés a programozásba (18 óra)
+4. Webszerkesztési ismeretek (46 óra)
+5. A GIT verzókezelő, csapat- és projektmunkát támogató eszközök (8 óra)
+
+### 10. évfolyam
+
+#### Informatikai és távközlési alapok II.
+
+8. Az informatikai és távközlési hálózatok alapjai (110 óra)
+9. IT-biztonság (30 óra)
+10. Mesterséges intelligencia, gépi tanulás
+11. Linux és egyéb (Android, MacOS) operációs rendszerek telepítése, konfigurálása és használata (24 óra)
+
+#### Programozási alapok II.
+
+13. A Python programozási nyelv alapjai (72 óra)
 
 ## Témakörök
 
@@ -30,19 +67,110 @@
 
 #### A témakör célja
 
-#### A témakör elemei
+A tantárgy oktatásának alapvető célja azoknak az ismereteknek a megalapozása, gyakorlat-ba ültetése, amelyek képessé teszik a tanulót arra, hogy megértse a szakmájában előforduló elektronikai alkatrészek alkalmazásának célját és működési elvét.
+
+#### A témakör tananyagelemei
+
+##### Egyszerűbb áramkör építése és mérések
+
+- Ismeri a forrasztóállomást és a forrasztás eszközeit.
+- Egyszerűbb áramkört épít próbapanelen.
+- Paramétereket mér multiméterrel.
 
 ##### Bevezetés a LabVIEW grafikus programozásba
 
-- Bemutatja a hőmérő szenzort, elvégzi a számítógépes mérést, értelmezi a mérőszoftver elemeit, és megfigyeli a jelváltozásokat.
+- Bemutatja a hőmérő szenzort, elvégzi a számítógépes mérést, értelmezi a mérőszoftver elemeit, megfigyeli a jelváltozásokat.
 - Megismeri a méréshez szükséges hardverelemeket és azok feladatait.
-- Megtekinti a javasolt elektronikus tananyagtartalmaknál felsorolt webcastokat (pl. Bevezetés a myDAQ használatába).
+- Megtekinti a javasolt elektronikus tananyagtartalmaknál felsorolt webcastokat (Bevezetés a myDAQ használatába).
+
+##### A LabVIEW környezet és grafikus programfejlesztés alapjai
+
+- Felépíti a VI-t, használ adattípusokat és adatvezetékeket.
+- Végrehajt matematikai és algebrai műveleteket, alkalmaz relációkat és logikai műveleteket.
+- Készít és futtat „Hello World!” típusú programot, használ Numeric Control-t és Boolean Indicator-t.
+- Alkalmazza a Control és Indicator szerepét, használ különféle ciklusokat és elágazásokat (SELECT, CASE).
+- Indítja a VI-t, használja a STOP funkciót, összeveti az egyszeres lefutást az iparban alkalmazott ciklus-megvalósítással.
+- Alkalmaz Waveform Chart-ot és Waveform Graph-ot.
+
+##### Mérések és jelkondicionálás a myDAQ használatával
+
+- Hőfokfüggő ellenállást és fotoellenállást alkalmaz.
+- Audiobemenetet és audiokimenetet használ.
+- Analóg és digitális jeleket, valamint időzítési lehetőségeket alkalmaz a műszaki gyakorlatban.
+- Filtereket, Express VI-okat és gyorsulásmérőt alkalmaz.
+- Pulzusmérőt hoz létre és megváltoztatja a mintavételi frekvenciát.
+- A myDAQ-ot multiméterként alkalmazza és prezentációt készít.
+
+##### Egyszerűbb áramkör építése és mérések
+
+- Ismeri a forrasztóállomást és a forrasztás eszközeit.
+- Egyszerűbb áramkört épít próbapanelen.
+- Paramétereket mér multiméterrel.
+
+##### Bevezetés az Arduino használatába
+
+- Bemutatja az Arduino platformot, elvégzi az alapvető áramköri kapcsolásokat, és megismeri az Arduino IDE használatát.
+- Megismeri a méréshez szükséges hardverelemeket és azok feladatait.
+- Megtekinti a javasolt elektronikus tananyagtartalmakat (Bevezetés az Arduino használatába).
+
+##### Az Arduino környezet és programfejlesztés alapjai
+
+- Felépíti az alapvető áramköröket, használja az Arduino nyelv alapvető elemeit.
+- Végrehajt matematikai és logikai műveleteket, alkalmazza a feltételes utasításokat és ciklusokat.
+- Készít és futtat „Hello World!” típusú programot, használ LED-eket és szenzorokat.
+- Alkalmazza a digitális és analóg bemeneteket és kimeneteket, használ különféle szenzorokat és aktuátorokat.
+
+##### Mérések és jelkondicionálás az Arduino használatával
+
+- Hőfokfüggő ellenállást és fotoellenállást alkalmaz.
+- Audiobemenetet és audiokimenetet használ.
+- Analóg és digitális jeleket, valamint időzítési lehetőségeket alkalmaz a műszaki gyakorlatban.
+- Filtereket és egyéb jelkondicionáló áramköröket alkalmaz.
+- Pulzusmérőt hoz létre és megváltoztatja a mintavételi frekvenciát.
+- Az Arduino-t multiméterként alkalmazza és prezentációt készít.
+
+##### Bevezetés a Raspberry Pi használatába
+
+- Bemutatja a Raspberry Pi platformot, elvégzi az alapvető áramköri kapcsolásokat, és megismeri a Raspberry Pi OS használatát.
+- Megismeri a méréshez szükséges hardverelemeket és azok feladatait.
+- Megtekinti a javasolt elektronikus tananyagtartalmakat (Bevezetés a Raspberry Pi használatába).
+
+##### A Raspberry Pi környezet és programfejlesztés alapjai
+
+- Felépíti az alapvető áramköröket, használja a Python nyelv alapvető elemeit a Raspberry Pi-n.
+- Végrehajt matematikai és logikai műveleteket, alkalmazza a feltételes utasításokat és ciklusokat.
+- Készít és futtat „Hello World!” típusú programot, használ LED-eket és szenzorokat.
+- Alkalmazza a digitális és analóg bemeneteket és kimeneteket, használ különféle szenzorokat és aktuátorokat a Raspberry Pi-n.
+
+##### Mérések és jelkondicionálás a Raspberry Pi használatával
+
+- Hőfokfüggő ellenállást és fotoellenállást alkalmaz.
+- Audiobemenetet és audiokimenetet használ.
+- Analóg és digitális jeleket, valamint időzítési lehetőségeket alkalmaz a műszaki gyakorlatban.
+- Filtereket és egyéb jelkondicionáló áramköröket alkalmaz.
+- Pulzusmérőt hoz létre és megváltoztatja a mintavételi frekvenciát.
+- A Raspberry Pi-t multiméterként alkalmazza és prezentációt készít.
 
 ### 3. Bevezetés a programozásba
 
 #### A témakör célja
 
-#### A témakör elemei
+A témakör elsődleges célja a tanulói érdeklődés felkeltése, a motiváció erősítése a progra-mozás tantárgy tanulására.  A tanulók megismerkednek az egyéni tanulás és önfejlesztés le-hetőségeivel is.
+
+#### A témakör tananyagelemei
+
+##### Kódolás játékos elsajátítása
+
+- Bemutat legalább három eszközt, és szemlélteti egyszerűbb feladatok, problémák megoldását a kiválasztott eszközökkel. Javasolt eszközök: Scratch használata egyszerű programok készítéséhez, Kodu alkalmazása játékos programozási feladatokhoz, Minecraft oktatási verziójának használata kódolási alapok elsajátításához, Lego vagy más hasonló oktatórobot használata interaktív feladatokhoz, Arduino használata alapvető áramköri kapcsolásokhoz és programozáshoz, MIT AppInventor 2 használata mobilalkalmazások fejlesztéséhez.
+- Áttekint legalább három kódolás oktatását célzó portált, és közösen elvégez egy-két rövidebb kurzust valamelyik kiválasztott portálon. Javasolt portálok: Code.org használata alapvető programozási ismeretek megszerzéséhez, freeCodeCamp alkalmazása gyakorlati programozási feladatokhoz, Codecademy használata interaktív programozási kurzusokhoz, Khan Academy alkalmazása programozási alapok elsajátításához, Udacity használata haladó programozási kurzusokhoz.
+
+##### Egyszerűbb problémák megoldása
+
+- Társaival közösen megold néhány egyszerűbb problémát, feladatot játékos formában valamely kiválasztott programozási eszközzel.
+- Alkalmazza a megszerzett ismereteket gyakorlati feladatok során.
+- Fejleszti a problémamegoldó képességeit játékos programozási feladatokkal.
+
+##### Bevezetés a programozásba (játékos programozás)
 
 ### 4. Webszerkesztési ismeretek
 
@@ -50,7 +178,7 @@
 
 A témakör célja, hogy a tanulók megismerjék a webszerkesztés alapjait, a weboldalak tervezését és készítését.
 
-#### A témakör elemei
+#### A témakör tananyagelemei
 
 ##### Webszerkesztési alapok
 
@@ -157,51 +285,51 @@ A témakör célja, hogy a tanulók megismerjék a webszerkesztés alapjait, a w
 
 A témakör célja, hogy a tanulók megismerjék a csapat- és projektmunkát támogató eszközöket és módszereket.
 
-#### A témakör elemei
+#### A témakör tananyagelemei
 
 ### 6. PC hardver ismeretek
 
 #### A témakör célja
 
-#### A témakör elemei
+#### A témakör tananyagelemei
 
 ### 7. Windows operációs rendszer telepítése, konfigurálása és használata
 
 #### A témakör célja
 
-#### A témakör elemei
+#### A témakör tananyagelemei
 
-#### A témakör elemei
+#### A témakör tananyagelemei
 
 ### 8. Linux operációs rendszer telepítése, konfigurálása és használata
 
 #### A témakör célja
 
-#### A témakör elemei
+#### A témakör tananyagelemei
 
 ### 9. Mesterséges intelligencia és gépi tanulás
 
 #### A témakör célja
 
-#### A témakör elemei
+#### A témakör tananyagelemei
 
 ### 10. Hálózatok és az internet
 
 #### A témakör célja
 
-#### A témakör elemei
+#### A témakör tananyagelemei
 
 ### 11. A Python programozási nyelv alapjai
 
 #### A témakör célja
 
-#### A témakör elemei
+#### A témakör tananyagelemei
 
 ### 12. A GIT verzókezelő, csapat- és projektmunkát támogató eszközök
 
 #### A témakör célja
 
-#### A témakör elemei
+#### A témakör tananyagelemei
 
 ##### A GIT verziókezelő eszköz használata
 
@@ -217,4 +345,4 @@ A témakör célja, hogy a tanulók megismerjék a csapat- és projektmunkát t�
 
 #### A témakör célja
 
-#### A témakör elemei
+#### A témakör tananyagelemei
